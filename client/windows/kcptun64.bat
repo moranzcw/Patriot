@@ -1,0 +1,1 @@
+.\client_windows_amd64.exe -r server_ip:4000 -l :2333 -mode fast3 -nocomp -autoexpire 900 -sockbuf 16777217 -dscp 46
