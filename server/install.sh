@@ -1,8 +1,5 @@
 #!/bin/sh
 
-mkdir ss
-cd ss
-
 apt update
 apt install python-pip
 apt install python-setuptools
